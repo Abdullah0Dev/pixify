@@ -4,7 +4,7 @@
 
 Welcome to the AI Image Generator! This Full Stack application lets you create stunning images using AI by simply providing a text prompt. It features a user-friendly interface and a straightforward process: just drop your prompt and press generate. You're done! 🎉
 
-![AI Image Generator](https://i.postimg.cc/15nMncHR/Travel-App-behance-4-1.png)
+![AI Image Generator](https://i.postimg.cc/R06nGXWq/ai-img-generator.png)
 
 ## Features 🌟
 
